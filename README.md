@@ -133,7 +133,7 @@ The dataset contains information such as:
 
 ## 📸 Dashboard Preview
 
-<img src="Images/Dashboard.png" width="1000">
+<img src="Images/Snapshot of Dashboard.png" width="1000">
 ---
 
 ## 👨‍💻 Author
